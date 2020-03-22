@@ -123,3 +123,8 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+mnist_dataset/mnist_test.csv
+mnist_dataset/mnist_test.csv
+mnist_dataset/mnist_test_10.csv
+mnist_dataset/mnist_train.csv
+mnist_dataset/mnist_train_100.csv
